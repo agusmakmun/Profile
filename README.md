@@ -7,6 +7,10 @@
 * Python 2.7.*
 * Django==1.8.7
 
+###Demo
+
+* https://python.web.id/agusmakmun/
+
 ###Instalation
 
 I assume you already setup your django development with virtual enviroment (virtualenv).
