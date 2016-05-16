@@ -1,4 +1,4 @@
-:bust_in_silhouette: Awesome Personal Profile build on Django.
+:bust_in_silhouette: Awesome Personal Profile built on Django.
 
 ![Screenshot](https://github.com/agusmakmun/Profile/blob/master/__screenshot/profile.png)
 
